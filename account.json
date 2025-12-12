@@ -1,0 +1,10 @@
+[
+    {
+        "bearer": "YOUR_BEARER_TOKEN",
+        "refresh_token": "YOUR_REFRESH_TOKEN"
+    },
+    {
+        "bearer": "YOUR_BEARER_TOKEN",
+        "refresh_token": "YOUR_REFRESH_TOKEN"
+    }
+]

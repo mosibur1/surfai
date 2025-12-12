@@ -1,0 +1,27 @@
+{
+  "name": "NT EXHAUST -  ASK SURF AUTO CHAT BOT",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.1",
+    "free-chatbot": "^1.0.2",
+    "https-proxy-agent": "^7.0.6",
+    "moment-timezone": "^0.5.48",
+    "ora": "^8.2.0",
+    "random-useragent": "^0.5.0",
+    "socks-proxy-agent": "^8.0.5",
+    "uuid": "^13.0.0",
+    "ws": "^8.18.3"
+  }
+
+}
